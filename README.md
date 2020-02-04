@@ -8,6 +8,9 @@ La méthode résoudre permet de résoudre pas a pas un niveau en affichant chaqu
 Si vous avez bien respecté les conventions de nommages de l'énoncé, il ne devrait pas y avoir de conflits.</br>
 
 
+![](diagram.png)	
+
+</br>
 <p align="center">
   <img src="https://github.com/IemProg/Sokoban/blob/master/Screen%20Shot%202019-01-20%20at%2012.43.08%20AM.png" width="350" title="Sokoban">
   <img src="https://github.com/IemProg/Sokoban/blob/master/Screen%20Shot%202019-01-20%20at%2012.52.00%20AM.png" width="350" title="Solver">
