@@ -6,20 +6,6 @@ La méthode jouer permet de jouer une configuraton chargée.</br>
 La méthode replay permet de rejouer une configuration à partir de l'historique des déplacements.</br>
 La méthode résoudre permet de résoudre pas a pas un niveau en affichant chaque étape à partir d'un solveur respectant l'interface SolverInterface.</br>
 Si vous avez bien respecté les conventions de nommages de l'énoncé, il ne devrait pas y avoir de conflits.</br>
-
-
+</br>
 ![](diagram.png)	
-
 </br>
-<p align="center">
-  <img src="https://github.com/IemProg/Sokoban/blob/master/Screen%20Shot%202019-01-20%20at%2012.43.08%20AM.png" width="350" title="Sokoban">
-  <img src="https://github.com/IemProg/Sokoban/blob/master/Screen%20Shot%202019-01-20%20at%2012.52.00%20AM.png" width="350" title="Solver">
-</p>
-
-
-![Sokoban]()
-</br>
-![Solver]()
-</br>
-<b>Video: https://github.com/IemProg/Sokoban/blob/master/Screen%20Recording%202019-01-20%20at%2012.52.54%20AM.mov </b>
-</br> 
